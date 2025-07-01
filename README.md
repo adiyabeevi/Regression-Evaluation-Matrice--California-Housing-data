@@ -41,17 +41,6 @@ Each model is evaluated using:
 ### Additional Techniques
 - **Cross-Validation**: 5-fold used for all models
 - **Hyperparameter Tuning**: GridSearchCV used for fine-tuning (e.g., Random Forest)
-
----
-
-## How to Run
-
-1. Clone the repo or download the notebook:
-   ```bash
-   git clone https://github.com/adiyabeevi/regression-evaluation-metrics.git
-Open Regression_Evaluation_Metrics_Assignment.ipynb in Jupyter or Google Colab
-
-Run all cells
  
 Key Insights
 Ensemble models (Random Forest & Gradient Boosting) showed high accuracy and generalization.
